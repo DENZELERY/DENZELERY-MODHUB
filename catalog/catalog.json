@@ -79,14 +79,25 @@
     "compatibilityNotes": "",
     "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-e100_the_long_road-v1.0.0/e100_the_long_road-1.0.0-4b93c307ac171abd.zip",
     "archiveSha256": "4B93C307AC171ABD769DC4A037D12FDBF90D13EB2405C7334786514F1F4D9D2C",
+    "archiveSizeBytes": 36099741,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/cover-90375ad37b346d5640781006.png",
     "videoUrl": "",
-    "screenshotUrls": [],
+    "screenshotUrls": [
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot1-e1b3083f06fa4c64e1aa6916.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot2-4f516bfa4f2d44dcf5071d38.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot3-f107d7f889a69e6bce535bb0.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot4-3768435c90b3cfac2efd8a94.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot5-5bf87913f3915bfc709d3c3c.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot6-fd8a73401af861d25a289eb6.png",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot7-eb261af4d6f8a4ccec532b03.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot8-55c53a650ac3f20d198c8130.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot9-bc8203b5e938f4ea3e6c16c9.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/shot10-5069447ac55cc26aa97cde9f.jpg"
+    ],
     "boostyUrl": "",
     "paidReferenceUrl": "",
-    "instruction": "",
     "changelog": "",
     "publishedAt": "2026-10-15T19:53:08.2442817\u002B00:00",
-    "updatedAt": "2026-10-15T20:18:39.639969\u002B00:00"
+    "updatedAt": "2026-10-17T19:30:38.5034941\u002B00:00"
   }
 ]
