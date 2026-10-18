@@ -53,13 +53,15 @@
     "archiveUrl": "",
     "archiveSha256": "25F9EE1F7D45FEE5C09B568B3CE2BFEFAF5380A00ADA374F9EEF1BAAF69CA130",
     "coverUrl": "",
-    "screenshotUrls": [],
+    "videoUrl": "",
+    "screenshotUrls": [
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/blue_camouflage/shot1-d0e341ceb23005aed4e26b57.png"
+    ],
     "boostyUrl": "https://boosty.to/denzelery/posts/0dddbd8a-7309-416c-a076-0b61b85f6752",
     "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/blue_camouflage-1-0-0.reference.json",
-    "instruction": "",
     "changelog": "",
     "publishedAt": "2026-10-14T21:53:38.1932015\u002B00:00",
-    "updatedAt": "2026-10-14T21:53:38.1930298\u002B00:00"
+    "updatedAt": "2026-10-18T10:01:23.8666721\u002B00:00"
   },
   {
     "id": "e100_the_long_road",
