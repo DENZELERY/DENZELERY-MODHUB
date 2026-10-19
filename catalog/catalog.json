@@ -31,39 +31,6 @@
     "updatedAt": "2026-10-18T11:47:16.9001465\u002B00:00"
   },
   {
-    "id": "blue_camouflage",
-    "title": "Blue camouflage",
-    "description": "\u0417\u0430\u043C\u0435\u043D\u044F\u0435\u0442 \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u043D\u044B\u0439 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436 \u0437\u0430 \u043F\u0440\u0435\u043C\u0438\u0443\u043C \u0430\u043A\u043A\u0430\u0443\u043D\u0442",
-    "descriptionEn": "",
-    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436",
-    "categoryEn": "camouflage",
-    "tags": [
-      "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436",
-      "\u0431\u043B\u0435\u0441\u0442\u0438\u0442",
-      "\u043F\u0435\u0440\u0435\u043B\u0438\u0432\u0430\u0435\u0442\u0441\u044F"
-    ],
-    "priceType": "paid",
-    "status": "Published",
-    "isLocalImport": false,
-    "publishedVersion": "1.0.0",
-    "compatibility": "allVersions",
-    "supportedGameVersions": [],
-    "compatibilityCheckedAt": "2026-10-14T21:34:20.3049774\u002B00:00",
-    "compatibilityNotes": "",
-    "archiveUrl": "",
-    "archiveSha256": "25F9EE1F7D45FEE5C09B568B3CE2BFEFAF5380A00ADA374F9EEF1BAAF69CA130",
-    "coverUrl": "",
-    "videoUrl": "",
-    "screenshotUrls": [
-      "https://denzelery.github.io/DENZELERY-MODHUB/media/blue_camouflage/shot1-d0e341ceb23005aed4e26b57.png"
-    ],
-    "boostyUrl": "https://boosty.to/denzelery/posts/0dddbd8a-7309-416c-a076-0b61b85f6752",
-    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/blue_camouflage-1-0-0.reference.json",
-    "changelog": "",
-    "publishedAt": "2026-10-14T21:53:38.1932015\u002B00:00",
-    "updatedAt": "2026-10-18T11:47:58.4335833\u002B00:00"
-  },
-  {
     "id": "e100_the_long_road",
     "title": "E100 - The long road",
     "description": "111",
