@@ -41,13 +41,13 @@
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
-    "publishedVersion": "1.0.0",
+    "publishedVersion": "1.1.0",
     "compatibility": "allVersions",
     "supportedGameVersions": [],
     "compatibilityCheckedAt": "2026-10-15T19:49:30.9285251\u002B00:00",
     "compatibilityNotes": "",
-    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-e100_the_long_road-v1.0.0/e100_the_long_road-1.0.0-4b93c307ac171abd.zip",
-    "archiveSha256": "4B93C307AC171ABD769DC4A037D12FDBF90D13EB2405C7334786514F1F4D9D2C",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-e100_the_long_road-v1.1.0/e100_the_long_road-1.1.0-41fa06029f742248.zip",
+    "archiveSha256": "41FA06029F74224817F131FC25C8032AE5F436B673FFA47307CE22198D291447",
     "archiveSizeBytes": 36099741,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/e100_the_long_road/cover-90375ad37b346d5640781006.png",
     "videoUrl": "https://youtu.be/MG60FKiz7ok?si=rP_tywHStoVLoyfc",
@@ -66,7 +66,7 @@
     "boostyUrl": "",
     "paidReferenceUrl": "",
     "changelog": "",
-    "publishedAt": "2026-10-19T00:42:07.6547667\u002B00:00",
-    "updatedAt": "2026-10-19T00:42:07.6539212\u002B00:00"
+    "publishedAt": "2026-10-19T00:44:57.9151633\u002B00:00",
+    "updatedAt": "2026-10-19T00:44:57.9144024\u002B00:00"
   }
 ]
