@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "mod-15b9559a",
+    "title": "ROSE CAMOUFLAGE",
+    "description": "\u0417\u0430\u043C\u0435\u043D\u044F\u0435\u0442\u0441\u044F \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436 \u0437\u0430 \u043F\u0440\u0435\u043C\u0438\u0443\u043C \u0430\u043A\u043A\u0430\u0443\u043D\u0442",
+    "descriptionEn": "The camouflage provided for a premium account is being replaced",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [
+      "\u0440\u043E\u0437\u043E\u0432\u044B\u0439",
+      "\u0431\u043B\u0435\u0441\u0442\u0438\u0442",
+      "\u043F\u0435\u0440\u0435\u043B\u0438\u0432\u0430\u0435\u0442\u0441\u044F"
+    ],
+    "priceType": "paid",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-22T19:20:34.6829345\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "",
+    "archiveSha256": "558236662ACEC0A8DD36F7CA32A014DDFB797BF56FDE78888C1BF5C9148447B1",
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-15b9559a/cover-cefbd5f264979b9e9546fe48.png",
+    "videoUrl": "",
+    "screenshotUrls": [
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-15b9559a/shot1-cefbd5f264979b9e9546fe48.png",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-15b9559a/shot2-cefbd5f264979b9e9546fe48.png",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-15b9559a/shot3-cefbd5f264979b9e9546fe48.png"
+    ],
+    "boostyUrl": "https://boosty.to/denzelery/posts/268d0ab0-10e5-4c75-8861-66cf11b69981",
+    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-15b9559a-1-0-0.reference.json",
+    "changelog": "",
+    "publishedAt": "2026-10-22T19:21:35.9379685\u002B00:00",
+    "updatedAt": "2026-10-22T19:21:35.9375393\u002B00:00"
+  }
+]
