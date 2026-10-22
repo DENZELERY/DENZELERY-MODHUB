@@ -33,5 +33,40 @@
     "changelog": "",
     "publishedAt": "2026-10-22T19:21:35.9379685\u002B00:00",
     "updatedAt": "2026-10-22T19:21:35.9375393\u002B00:00"
+  },
+  {
+    "id": "mod-ea26cb12",
+    "title": "E 100 | THE LONG ROAD",
+    "description": "\u041B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u044B\u0439 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436 \u0441 WG, \u0437\u0430\u043C\u0435\u043D\u044F\u0435\u0442 \u043B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u044B\u0439 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436 \u0022\u0419\u043E\u0442\u0443\u043D\u0022",
+    "descriptionEn": "Legendary camouflage from WG, replaces the \u0022Jotun\u0022 legendary camouflage",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [
+      "\u041B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u044B\u0439 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436",
+      "\u043E\u0431\u0432\u0435\u0441\u044B"
+    ],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-22T19:34:35.7775166\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-ea26cb12-v1.0.0/mod-ea26cb12-1.0.0-41fa06029f742248.zip",
+    "archiveSha256": "41FA06029F74224817F131FC25C8032AE5F436B673FFA47307CE22198D291447",
+    "archiveSizeBytes": 36099741,
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/cover-3c685dd6f111d4c8f9d3e593.png",
+    "videoUrl": "",
+    "screenshotUrls": [
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/shot1-3c685dd6f111d4c8f9d3e593.png",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/shot2-3c685dd6f111d4c8f9d3e593.png",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/shot3-3c685dd6f111d4c8f9d3e593.png"
+    ],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-22T19:34:35.7781115\u002B00:00",
+    "updatedAt": "2026-10-22T19:34:35.777584\u002B00:00"
   }
 ]
