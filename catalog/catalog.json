@@ -226,5 +226,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T09:56:44.8538087\u002B00:00",
     "updatedAt": "2026-10-24T09:56:44.853576\u002B00:00"
+  },
+  {
+    "id": "mod-bcbbf4bf",
+    "title": "\u0418\u0421-7 | \u0418\u0421\u0422\u041E\u0420\u0418\u0427\u041D\u042B\u0419",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T11:51:28.7167413\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-bcbbf4bf-v1.0.0/mod-bcbbf4bf-1.0.0-ca9033993f25228c.zip",
+    "archiveSha256": "CA9033993F25228C69C28DCF6484DB4310732AED8A2B3C80FC561F976BCC8176",
+    "archiveSizeBytes": 14686242,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T11:51:28.7170222\u002B00:00",
+    "updatedAt": "2026-10-24T11:51:28.7167499\u002B00:00"
   }
 ]
