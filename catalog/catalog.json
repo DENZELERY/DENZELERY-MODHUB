@@ -646,5 +646,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:41:03.4144297\u002B00:00",
     "updatedAt": "2026-10-24T12:41:03.4142678\u002B00:00"
+  },
+  {
+    "id": "mod-6107001f",
+    "title": "[Pack] \u041A\u0410\u041C\u0423\u0424\u041B\u042F\u0416\u0418 \u041C\u0423\u041B\u042C\u0422\u042F\u0428\u041A\u0418",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:43:57.7908335\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-6107001f-v1.0.0/mod-6107001f-1.0.0-d3e796e5d8cf8e4f.zip",
+    "archiveSha256": "D3E796E5D8CF8E4FB1EA0989966C47C3E7D3B9F9098DC2B5CC9728C1A1F823B5",
+    "archiveSizeBytes": 15971315,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:43:57.7910375\u002B00:00",
+    "updatedAt": "2026-10-24T12:43:57.7908413\u002B00:00"
   }
 ]
