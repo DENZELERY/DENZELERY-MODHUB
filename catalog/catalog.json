@@ -366,5 +366,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:04:23.4525338\u002B00:00",
     "updatedAt": "2026-10-24T12:04:23.4523109\u002B00:00"
+  },
+  {
+    "id": "mod-4ef5baf9",
+    "title": "JAGDPANZER E100 GOLD | \u0411\u0420\u041E\u041D\u0417\u0410",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:15:56.7664778\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-4ef5baf9-v1.0.0/mod-4ef5baf9-1.0.0-9241a203e82cdb0a.zip",
+    "archiveSha256": "9241A203E82CDB0AFD59B395694F2087584B59F4893907B03189E1BCB93E5738",
+    "archiveSizeBytes": 1417388,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:15:56.7666558\u002B00:00",
+    "updatedAt": "2026-10-24T12:15:56.7664876\u002B00:00"
   }
 ]
