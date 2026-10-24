@@ -730,5 +730,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:59:23.8491992\u002B00:00",
     "updatedAt": "2026-10-24T13:01:18.5577933\u002B00:00"
+  },
+  {
+    "id": "mod-3129be0a",
+    "title": "GOLD",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T13:04:39.3508098\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-3129be0a-v1.0.0/mod-3129be0a-1.0.0-8f3d80d1df18bb7a.zip",
+    "archiveSha256": "8F3D80D1DF18BB7A43A8343267F40B2CA26109220CDFF6A43D7BB1DC1CD8E6E0",
+    "archiveSizeBytes": 4489,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T13:04:39.351017\u002B00:00",
+    "updatedAt": "2026-10-24T13:04:39.3508215\u002B00:00"
   }
 ]
