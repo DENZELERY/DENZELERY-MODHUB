@@ -534,5 +534,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:26:38.113825\u002B00:00",
     "updatedAt": "2026-10-24T12:26:38.1136179\u002B00:00"
+  },
+  {
+    "id": "mod-7a570a63",
+    "title": "FV215B (183) | \u0415\u0414\u0418\u041D\u041E\u0420\u041E\u0413\u041E\u0412\u041E\u0415 \u041C\u042F\u0423",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:32:36.5518848\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-7a570a63-v1.0.0/mod-7a570a63-1.0.0-2b26fd5b81ed8b0a.zip",
+    "archiveSha256": "2B26FD5B81ED8B0AF1B3C4920F94DFF5162A0E65B48DD17B9A1DCA292E8BC598",
+    "archiveSizeBytes": 14204504,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:32:36.5521369\u002B00:00",
+    "updatedAt": "2026-10-24T12:32:36.5518977\u002B00:00"
   }
 ]
