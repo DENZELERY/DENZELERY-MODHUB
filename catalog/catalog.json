@@ -618,5 +618,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:39:08.7578031\u002B00:00",
     "updatedAt": "2026-10-24T12:39:08.757608\u002B00:00"
+  },
+  {
+    "id": "mod-100074be",
+    "title": "STB-1 | \u041A\u041E\u041D\u0414\u041E\u041C\u0410",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:41:03.4142586\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-100074be-v1.0.0/mod-100074be-1.0.0-f2af13296f1ae2fb.zip",
+    "archiveSha256": "F2AF13296F1AE2FB6F01A8A88EC5428C65EAC1F2795AA7E2B9EC152CF33B3B22",
+    "archiveSizeBytes": 7060677,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:41:03.4144297\u002B00:00",
+    "updatedAt": "2026-10-24T12:41:03.4142678\u002B00:00"
   }
 ]
