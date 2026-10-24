@@ -562,5 +562,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:32:36.5521369\u002B00:00",
     "updatedAt": "2026-10-24T12:32:36.5518977\u002B00:00"
+  },
+  {
+    "id": "mod-4d18f7af",
+    "title": "FV215B (183) THE SAND RANGER",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:36:58.4846813\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-4d18f7af-v1.0.0/mod-4d18f7af-1.0.0-25679d25043d7bea.zip",
+    "archiveSha256": "25679D25043D7BEAA83BEFA0E81CB61DE48D867B6C00C28C32D4294D80E896AC",
+    "archiveSizeBytes": 34039511,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:36:58.4849525\u002B00:00",
+    "updatedAt": "2026-10-24T12:36:58.4846883\u002B00:00"
   }
 ]
