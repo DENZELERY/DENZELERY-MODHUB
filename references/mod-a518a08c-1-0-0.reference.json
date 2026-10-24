@@ -1,0 +1,28 @@
+{
+  "modId": "mod-a518a08c",
+  "version": "1.0.0",
+  "archiveSha256": "5610684B595950BB15ABB9F3DF64BE19BB1472C67439E3BB4C8412C1655382B3",
+  "files": [
+    {
+      "path": "3d/Tanks/Camouflages/common/images_pbr/premium_acc_BC.dx11.dds.dvpl",
+      "length": 444,
+      "sha256": "9286B78BB65250CDCC8059C94D2DC30DC00B022AA00480A82C8FDD877E7326E6"
+    },
+    {
+      "path": "3d/Tanks/Camouflages/common/images_pbr/premium_acc_NM.dx11.dds.dvpl",
+      "length": 444,
+      "sha256": "5C3BA52A9500FB170E85F9F06DC04AD2D613BBAF963E9817237015C2BEAB09CB"
+    },
+    {
+      "path": "3d/Tanks/Camouflages/common/images_pbr/premium_acc_RM.dx11.dds.dvpl",
+      "length": 440,
+      "sha256": "1C4C2D29907B3D12BB549DB268BB6D163D0F43BD2805BB60A63C96C9D6CC98FA"
+    },
+    {
+      "path": "3d/Tanks/Camouflages/common/premium_acc.dx11.dds.dvpl",
+      "length": 444,
+      "sha256": "9286B78BB65250CDCC8059C94D2DC30DC00B022AA00480A82C8FDD877E7326E6"
+    }
+  ],
+  "publishedAt": "2026-10-24T09:32:47.3255649+00:00"
+}
