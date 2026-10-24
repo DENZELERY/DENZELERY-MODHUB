@@ -814,5 +814,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T13:17:45.3016915\u002B00:00",
     "updatedAt": "2026-10-24T13:17:45.3015036\u002B00:00"
+  },
+  {
+    "id": "mod-1550ce8d",
+    "title": "NOT BLACK TANKS",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0413\u0440\u0430\u0444\u0438\u043A\u0430",
+    "categoryEn": "Graphics",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T13:20:30.865935\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-1550ce8d-v1.0.0/mod-1550ce8d-1.0.0-96435c0c5b68e490.zip",
+    "archiveSha256": "96435C0C5B68E4904423DE6F6C74DFE6529372BCD72A2F310D8F8022F2C8DFAC",
+    "archiveSizeBytes": 54824,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T13:20:30.8661396\u002B00:00",
+    "updatedAt": "2026-10-24T13:20:30.865943\u002B00:00"
   }
 ]
