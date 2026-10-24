@@ -254,5 +254,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T11:51:28.7170222\u002B00:00",
     "updatedAt": "2026-10-24T11:51:28.7167499\u002B00:00"
+  },
+  {
+    "id": "mod-afa11f0a",
+    "title": "\u041E\u0411\u042A\u0415\u041A\u0422 777 II | IMPULSE",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T11:54:36.5299827\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-afa11f0a-v1.0.0/mod-afa11f0a-1.0.0-d6a72a689b1ecb8c.zip",
+    "archiveSha256": "D6A72A689B1ECB8CE492E4D1E30F91CCDE8109F7BE6988E348C6619FE78907BC",
+    "archiveSizeBytes": 24183744,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T11:54:36.5301922\u002B00:00",
+    "updatedAt": "2026-10-24T11:54:36.5299911\u002B00:00"
   }
 ]
