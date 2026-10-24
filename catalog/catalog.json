@@ -310,5 +310,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T11:56:55.5367218\u002B00:00",
     "updatedAt": "2026-10-24T11:56:55.5365618\u002B00:00"
+  },
+  {
+    "id": "mod-ea4313ae",
+    "title": "\u041A-91 | \u041C\u041E\u041D\u041E\u041B\u0418\u0422",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:01:44.0096568\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-ea4313ae-v1.0.0/mod-ea4313ae-1.0.0-e0cee9d0477867ba.zip",
+    "archiveSha256": "E0CEE9D0477867BA2E5B8744E7DD10F936A495E0D4A5F81E01395A5363408577",
+    "archiveSizeBytes": 28621401,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:01:44.009905\u002B00:00",
+    "updatedAt": "2026-10-24T12:01:44.0096721\u002B00:00"
   }
 ]
