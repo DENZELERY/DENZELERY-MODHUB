@@ -478,5 +478,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:22:17.8952824\u002B00:00",
     "updatedAt": "2026-10-24T12:22:17.8950809\u002B00:00"
+  },
+  {
+    "id": "mod-e33c6425",
+    "title": "KAMPFPANZER 07 P(E) | 467",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:25:04.7749077\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-e33c6425-v1.0.0/mod-e33c6425-1.0.0-b16760eee2184c22.zip",
+    "archiveSha256": "B16760EEE2184C22E106D6FF1C049B448D400540E40EE2907DD0E067763E8C4F",
+    "archiveSizeBytes": 13953014,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:25:04.7750862\u002B00:00",
+    "updatedAt": "2026-10-24T12:25:04.7749161\u002B00:00"
   }
 ]
