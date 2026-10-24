@@ -1,0 +1,33 @@
+{
+  "modId": "mod-9f133441",
+  "version": "1.0.0",
+  "archiveSha256": "100BF5EA29CEC09808ECD048155736DA3DFDAAE46A5D9682ABA09BA3BEEE7900",
+  "files": [
+    {
+      "path": "3d/Tanks/Camouflages/common/images_pbr/premium_acc_BC.dx11.dds.dvpl",
+      "length": 473,
+      "sha256": "BA7EF050436A6507C4E9DFBB9867B73C10C1DA1B94335005B3BE0BADBBA575D4"
+    },
+    {
+      "path": "3d/Tanks/Camouflages/common/images_pbr/premium_acc_NM.dx11.dds.dvpl",
+      "length": 444,
+      "sha256": "22F16A17334A50E7EE178F0945680D8187CEE9EE04DF969EF979EDC8B80E0F11"
+    },
+    {
+      "path": "3d/Tanks/Camouflages/common/images_pbr/premium_acc_RM.dx11.dds.dvpl",
+      "length": 440,
+      "sha256": "3B4DECB9C4A0DB4A6EC50B02853EECE2AF3B70BC7860DFB9E4FB4C99C855D71E"
+    },
+    {
+      "path": "3d/Tanks/Camouflages/common/premium_acc.dx11.dds.dvpl",
+      "length": 594,
+      "sha256": "F021D20B7EDAA7788DB8A6C73C13ACBDB0AE029E03B56D595BEF4FA2D2D99F39"
+    },
+    {
+      "path": "Strings/ru.yaml.dvpl",
+      "length": 395647,
+      "sha256": "E46D095D847371ECD084A4D2F4C6B16BD1601E64EE21844FE02948EDD8B715E4"
+    }
+  ],
+  "publishedAt": "2026-10-24T09:47:04.3411611+00:00"
+}

@@ -176,5 +176,32 @@
     "changelog": "",
     "publishedAt": "2026-10-24T09:40:14.1501389\u002B00:00",
     "updatedAt": "2026-10-24T09:40:14.1499703\u002B00:00"
+  },
+  {
+    "id": "mod-9f133441",
+    "title": "PEARLESCENT BLACK AND BLUE CAMOUFLAGE",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [],
+    "priceType": "paid",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T09:47:05.7091751\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "",
+    "archiveSha256": "100BF5EA29CEC09808ECD048155736DA3DFDAAE46A5D9682ABA09BA3BEEE7900",
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "https://boosty.to/denzelery/posts/8a5adf3d-b00f-4abf-b9c0-545065d39b6b",
+    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-9f133441-1-0-0.reference.json",
+    "changelog": "",
+    "publishedAt": "2026-10-24T09:47:05.7094066\u002B00:00",
+    "updatedAt": "2026-10-24T09:47:05.709182\u002B00:00"
   }
 ]
