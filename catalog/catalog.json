@@ -450,5 +450,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:20:21.6554352\u002B00:00",
     "updatedAt": "2026-10-24T12:20:21.6552459\u002B00:00"
+  },
+  {
+    "id": "mod-6940b57f",
+    "title": "E100 | THE LONG ROAD",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:22:17.8950724\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-6940b57f-v1.0.0/mod-6940b57f-1.0.0-dacfb17e05057349.zip",
+    "archiveSha256": "DACFB17E050573493911CE0DC026E169CC3B0FAF32E89F2F44D801960483D50A",
+    "archiveSizeBytes": 36097655,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:22:17.8952824\u002B00:00",
+    "updatedAt": "2026-10-24T12:22:17.8950809\u002B00:00"
   }
 ]
