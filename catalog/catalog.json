@@ -52,17 +52,13 @@
     "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-ea26cb12-v1.0.0/mod-ea26cb12-1.0.0-41fa06029f742248.zip",
     "archiveSha256": "41FA06029F74224817F131FC25C8032AE5F436B673FFA47307CE22198D291447",
     "archiveSizeBytes": 36099741,
-    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/cover-3c685dd6f111d4c8f9d3e593.png",
+    "coverUrl": "",
     "videoUrl": "",
-    "screenshotUrls": [
-      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/shot1-3c685dd6f111d4c8f9d3e593.png",
-      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/shot2-3c685dd6f111d4c8f9d3e593.png",
-      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea26cb12/shot3-3c685dd6f111d4c8f9d3e593.png"
-    ],
+    "screenshotUrls": [],
     "boostyUrl": "",
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-22T19:34:35.7781115\u002B00:00",
-    "updatedAt": "2026-10-22T19:34:35.777584\u002B00:00"
+    "updatedAt": "2026-10-24T08:14:13.8530551\u002B00:00"
   }
 ]
