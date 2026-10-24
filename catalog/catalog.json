@@ -394,5 +394,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:15:56.7666558\u002B00:00",
     "updatedAt": "2026-10-24T12:15:56.7664876\u002B00:00"
+  },
+  {
+    "id": "mod-f982fe37",
+    "title": "JAGDPANZER E100  | KARL LEGERFELD",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:18:20.4346831\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-f982fe37-v1.0.0/mod-f982fe37-1.0.0-e441e69e41e9ff0e.zip",
+    "archiveSha256": "E441E69E41E9FF0EAD92EA42A784C09BAFB9A30159E7B77669D1475712D19BF7",
+    "archiveSizeBytes": 4935590,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:18:20.4348969\u002B00:00",
+    "updatedAt": "2026-10-24T12:18:20.4346995\u002B00:00"
   }
 ]
