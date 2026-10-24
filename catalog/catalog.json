@@ -199,5 +199,32 @@
     "changelog": "",
     "publishedAt": "2026-10-24T09:53:15.1093263\u002B00:00",
     "updatedAt": "2026-10-24T09:53:15.1091277\u002B00:00"
+  },
+  {
+    "id": "mod-3ba18373",
+    "title": "PEARLESCENT WHITE AND PINK CAMOUFLAGE",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflage",
+    "tags": [],
+    "priceType": "paid",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T09:56:44.8535639\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "",
+    "archiveSha256": "B1B526B1C585CC70CEEDDF04B3208E380E49F35D8E0361DBDDBBCDB4287E1CA0",
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "https://boosty.to/denzelery/posts/8a5adf3d-b00f-4abf-b9c0-545065d39b6b",
+    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-3ba18373-1-0-0.reference.json",
+    "changelog": "",
+    "publishedAt": "2026-10-24T09:56:44.8538087\u002B00:00",
+    "updatedAt": "2026-10-24T09:56:44.853576\u002B00:00"
   }
 ]
