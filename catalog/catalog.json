@@ -758,5 +758,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T13:04:39.351017\u002B00:00",
     "updatedAt": "2026-10-24T13:04:39.3508215\u002B00:00"
+  },
+  {
+    "id": "mod-c03bdbe3",
+    "title": "SILVER",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T13:06:21.3909935\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-c03bdbe3-v1.0.0/mod-c03bdbe3-1.0.0-7ec385b5ee6955cb.zip",
+    "archiveSha256": "7EC385B5EE6955CBF9D6B7428B9A534E439EC527293DDF21EF125702876FE580",
+    "archiveSizeBytes": 4965,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T13:06:21.3911666\u002B00:00",
+    "updatedAt": "2026-10-24T13:06:21.3910016\u002B00:00"
   }
 ]
