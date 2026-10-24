@@ -60,5 +60,34 @@
     "changelog": "",
     "publishedAt": "2026-10-22T19:34:35.7781115\u002B00:00",
     "updatedAt": "2026-10-24T08:14:13.8530551\u002B00:00"
+  },
+  {
+    "id": "mod-92e1fe82",
+    "title": "SHINY TURQUOISE CAMOUFLAGE",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [
+      "\u0431\u043B\u0435\u0441\u043A"
+    ],
+    "priceType": "paid",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T08:30:44.5145623\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "",
+    "archiveSha256": "85CBF3EDA3AB8E8754B6BAD4A818AC044D9846500F4480F60277F7F81F9B24F7",
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "https://boosty.to/denzelery/posts/eb1884fa-ee39-4763-9875-00d712179a16",
+    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-92e1fe82-1-0-0.reference.json",
+    "changelog": "",
+    "publishedAt": "2026-10-24T08:30:44.5147518\u002B00:00",
+    "updatedAt": "2026-10-24T08:30:44.5145688\u002B00:00"
   }
 ]
