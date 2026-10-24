@@ -702,5 +702,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:56:17.1118982\u002B00:00",
     "updatedAt": "2026-10-24T12:56:17.1116873\u002B00:00"
+  },
+  {
+    "id": "mod-ad59358d",
+    "title": "\u041A\u0410\u041C\u0423\u0424\u041B\u042F\u0416 NATURAL LEO",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:59:23.8489954\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-ad59358d-v1.0.0/mod-ad59358d-1.0.0-0cc756606f36622a.zip",
+    "archiveSha256": "0CC756606F36622A980A2EB35D5884F9C73347A3EFEA293CBC76BAD4B384400E",
+    "archiveSizeBytes": 41260,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:59:23.8491992\u002B00:00",
+    "updatedAt": "2026-10-24T12:59:23.8490032\u002B00:00"
   }
 ]
