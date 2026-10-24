@@ -147,5 +147,34 @@
     "changelog": "",
     "publishedAt": "2026-10-24T09:37:14.0065004\u002B00:00",
     "updatedAt": "2026-10-24T09:37:14.0062716\u002B00:00"
+  },
+  {
+    "id": "mod-2d30b1b2",
+    "title": "SHINY BLACK CAMOUFLAGE",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [
+      "\u0411\u043B\u0435\u0441\u043A"
+    ],
+    "priceType": "paid",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T09:40:14.1499643\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "",
+    "archiveSha256": "672C1D109071B83F54A7512396052AAF9F25F786D2932DAF8971A724A1EF5B18",
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "https://boosty.to/denzelery/posts/1ba7d168-3221-4372-a3d9-fe9eecc8122f",
+    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-2d30b1b2-1-0-0.reference.json",
+    "changelog": "",
+    "publishedAt": "2026-10-24T09:40:14.1501389\u002B00:00",
+    "updatedAt": "2026-10-24T09:40:14.1499703\u002B00:00"
   }
 ]
