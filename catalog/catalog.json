@@ -506,5 +506,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T12:25:04.7750862\u002B00:00",
     "updatedAt": "2026-10-24T12:25:04.7749161\u002B00:00"
+  },
+  {
+    "id": "mod-f04c1703",
+    "title": "VK 90.01P | DEATH BLADE",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T12:26:38.1136098\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-f04c1703-v1.0.0/mod-f04c1703-1.0.0-b224d5af5cc02a9b.zip",
+    "archiveSha256": "B224D5AF5CC02A9B8A565F3527A938EEAD9AF875CAD54A21921783E5F7BAF4BF",
+    "archiveSizeBytes": 6561964,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T12:26:38.113825\u002B00:00",
+    "updatedAt": "2026-10-24T12:26:38.1136179\u002B00:00"
   }
 ]
