@@ -786,5 +786,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T13:06:21.3911666\u002B00:00",
     "updatedAt": "2026-10-24T13:06:21.3910016\u002B00:00"
+  },
+  {
+    "id": "mod-9ea68e1b",
+    "title": "\u041E\u0422\u0414\u0410\u041B\u0415\u041D\u0418\u0415 \u041A\u0410\u041C\u0415\u0420\u042B \u0412 \u0411\u041E\u042E",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041F\u0440\u043E\u0447\u0435\u0435",
+    "categoryEn": "Other",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-24T13:17:45.3014947\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-9ea68e1b-v1.0.0/mod-9ea68e1b-1.0.0-9ec6e56b6fa9dd1a.zip",
+    "archiveSha256": "9EC6E56B6FA9DD1A4632EDBC5B591A11108AB107A92F1E4A5299148E3F933D88",
+    "archiveSizeBytes": 8255,
+    "coverUrl": "",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-24T13:17:45.3016915\u002B00:00",
+    "updatedAt": "2026-10-24T13:17:45.3015036\u002B00:00"
   }
 ]
