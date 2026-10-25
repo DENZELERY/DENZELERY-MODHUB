@@ -823,5 +823,33 @@
     "changelog": "",
     "publishedAt": "2026-10-25T21:54:37.0141075\u002B00:00",
     "updatedAt": "2026-10-25T21:58:14.3252225\u002B00:00"
+  },
+  {
+    "id": "mod-d7b660c7",
+    "title": "JAGDPANZER E100 | \u0412\u0415\u0414\u0411\u041C\u0410\u041A x \u041E\u0425\u041E\u0422\u0410 \u041A\u0420\u0415\u041F\u041A\u0410\u042F",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-25T22:38:51.9539199\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-d7b660c7-v1.0.0/mod-d7b660c7-1.0.0-5046b62791efe0ec.zip",
+    "archiveSha256": "5046B62791EFE0EC0CE5FDBF777240420F6F528E50875C31105A5E70949ACAE0",
+    "archiveSizeBytes": 15199980,
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-d7b660c7/cover-423ae6b45ec94cffad4ed8df.png",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-25T22:38:51.9541927\u002B00:00",
+    "updatedAt": "2026-10-25T22:38:51.9539297\u002B00:00"
   }
 ]
