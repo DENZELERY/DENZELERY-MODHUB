@@ -795,5 +795,33 @@
     "changelog": "",
     "publishedAt": "2026-10-24T13:20:30.8661396\u002B00:00",
     "updatedAt": "2026-10-25T19:25:34.053695\u002B00:00"
+  },
+  {
+    "id": "mod-25af1db0",
+    "title": "E 100 | \u0411\u0410\u041B\u0422\u0418\u041A\u0410",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-25T21:54:37.0136955\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-25af1db0-v1.0.0/mod-25af1db0-1.0.0-c9f52274015d88d3.zip",
+    "archiveSha256": "C9F52274015D88D3AAF97FADE4698639C47728982404DA6E43D7802C96538003",
+    "archiveSizeBytes": 7809586,
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-25af1db0/cover-31088ae932e44ee8be8366da.png",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-25T21:54:37.0141075\u002B00:00",
+    "updatedAt": "2026-10-25T21:54:37.0137055\u002B00:00"
   }
 ]
