@@ -149,8 +149,8 @@
   {
     "id": "mod-9f133441",
     "title": "PEARLESCENT BLACK AND BLUE CAMOUFLAGE",
-    "description": "",
-    "descriptionEn": "",
+    "description": "\u0417\u0430\u043C\u0435\u043D\u044F\u0435\u0442 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436 \u0022\u0411\u0415\u0421\u0421\u041F\u041E\u0420\u041D\u041E\u0415 \u041F\u0420\u0415\u0418\u041C\u0423\u0429\u0415\u0421\u0422\u0412\u041E\u0022, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F\u0435\u043D \u0437\u0430 \u041F\u0420\u0415\u041C\u0418\u0423\u041C \u0410\u041A\u041A\u0410\u0423\u041D\u0422.\r\n\r\n\u0411\u043B\u0435\u0441\u0442\u044F\u0449\u0438\u0439 \u0447\u0435\u0440\u043D\u044B\u0439 \u043F\u0435\u0440\u043B\u0430\u043C\u0443\u0442\u0440\u043E\u0432\u044B\u0439 (\u0445\u0430\u043C\u0435\u043B\u0435\u043E\u043D) \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043F\u0435\u0440\u0435\u043B\u0438\u0432\u0430\u0435\u0442\u0441\u044F \u043D\u0430 \u0441\u0432\u0435\u0442\u0443 \u0418 \u043F\u043E\u0434 \u0440\u0430\u0437\u043D\u044B\u043C\u0438 \u0443\u0433\u043B\u0430\u043C\u0438 \u0441\u0438\u043D\u0438\u043C\u0438 \u043E\u0442\u0442\u0435\u043D\u043A\u0430\u043C\u0438. \u041F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u043D\u0430 \u0432\u0441\u0435 \u0442\u0430\u043D\u043A\u0438, \u043F\u0435\u0440\u0435\u043B\u0438\u0432\u0430\u0442\u044C\u0441\u044F \u0431\u0443\u0434\u0435\u0442 \u043D\u0430 \u0442\u0430\u043D\u043A\u0430\u0445 \u0432 \u043B\u044E\u0431\u043E\u043C \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435.\r\n\r\n\u0417\u0430\u043C\u0435\u043D\u0435\u043D\u0430 \u0438\u043A\u043E\u043D\u043A\u0430 \u0432 \u0440\u0430\u0437\u0434\u0435\u043B\u0435 \u0441 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0430\u043C\u0438.",
+    "descriptionEn": "Replaces the \u0022UNDISPUTED ADVANTAGE\u0022 camouflage, which is available with a PREMIUM ACCOUNT.\r\n\r\nA glossy, black pearlescent (chameleon-effect) camouflage that shimmers with blue hues when exposed to light or viewed from different angles. It can be applied to any tank and will retain its shimmering effect regardless of the graphics quality settings.\r\n\r\nThe icon in the camouflage selection menu has also been replaced.",
     "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
     "categoryEn": "Camouflages",
     "tags": [],
@@ -171,7 +171,7 @@
     "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-9f133441-1-0-0.reference.json",
     "changelog": "",
     "publishedAt": "2026-10-24T09:47:05.7094066\u002B00:00",
-    "updatedAt": "2026-10-25T12:18:30.0725051\u002B00:00"
+    "updatedAt": "2026-10-25T19:46:45.4997049\u002B00:00"
   },
   {
     "id": "mod-ade0c4e7",
