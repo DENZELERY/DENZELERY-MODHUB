@@ -322,14 +322,14 @@
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
-    "publishedVersion": "1.0.0",
+    "publishedVersion": "1.1.0",
     "compatibility": "allVersions",
     "supportedGameVersions": [],
     "compatibilityCheckedAt": "2026-10-24T12:01:44.0096568\u002B00:00",
     "compatibilityNotes": "",
-    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-ea4313ae-v1.0.0/mod-ea4313ae-1.0.0-e0cee9d0477867ba.zip",
-    "archiveSha256": "E0CEE9D0477867BA2E5B8744E7DD10F936A495E0D4A5F81E01395A5363408577",
-    "archiveSizeBytes": 28621401,
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-ea4313ae-v1.1.0/mod-ea4313ae-1.1.0-c42c1e45c391e313.zip",
+    "archiveSha256": "C42C1E45C391E3133E0B9606CF3163246A36E18A10161641F0C33D16B2EBCA7D",
+    "archiveSizeBytes": 28266580,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-ea4313ae/cover-0204145e13a6d1dae516f697.png",
     "videoUrl": "",
     "screenshotUrls": [],
@@ -337,7 +337,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T12:01:44.009905\u002B00:00",
-    "updatedAt": "2026-10-25T14:24:58.3133994\u002B00:00"
+    "updatedAt": "2026-10-25T17:19:44.767254\u002B00:00"
   },
   {
     "id": "mod-d5e2396d",
