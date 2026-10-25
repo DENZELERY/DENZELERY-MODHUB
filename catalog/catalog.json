@@ -266,14 +266,14 @@
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
-    "publishedVersion": "1.0.0",
+    "publishedVersion": "1.1.0",
     "compatibility": "allVersions",
     "supportedGameVersions": [],
     "compatibilityCheckedAt": "2026-10-24T11:54:36.5299827\u002B00:00",
     "compatibilityNotes": "",
-    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-afa11f0a-v1.0.0/mod-afa11f0a-1.0.0-d6a72a689b1ecb8c.zip",
-    "archiveSha256": "D6A72A689B1ECB8CE492E4D1E30F91CCDE8109F7BE6988E348C6619FE78907BC",
-    "archiveSizeBytes": 24183744,
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-afa11f0a-v1.1.0/mod-afa11f0a-1.1.0-cf5dc5881e3d904f.zip",
+    "archiveSha256": "CF5DC5881E3D904F4A4B01480F3170BE4CEA84DD5265BF3CC2F06625992EAC2C",
+    "archiveSizeBytes": 23828917,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-afa11f0a/cover-e91d03116dfcefd69d78c6bd.png",
     "videoUrl": "",
     "screenshotUrls": [],
@@ -281,7 +281,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T11:54:36.5301922\u002B00:00",
-    "updatedAt": "2026-10-25T17:01:24.0879958\u002B00:00"
+    "updatedAt": "2026-10-25T17:08:04.5070762\u002B00:00"
   },
   {
     "id": "mod-fe35d74f",
