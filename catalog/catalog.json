@@ -762,11 +762,14 @@
   {
     "id": "mod-1550ce8d",
     "title": "NOT BLACK TANKS",
-    "description": "",
-    "descriptionEn": "",
+    "description": "\u041C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0447\u0435\u0440\u043D\u043E\u0442\u0443 \u0441 \u0443\u043D\u0438\u0447\u0442\u043E\u0436\u0435\u043D\u043D\u043E\u0439 \u0442\u0435\u0445\u043D\u0438\u043A\u0438. \r\n\r\n\u041D\u0430\u0432\u0435\u0440\u043D\u043E\u0435 \u0443 \u0432\u0441\u0435\u0445, \u043A\u0442\u043E \u0446\u0435\u043D\u0438\u0442 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u043E\u0441\u0442\u0430\u0442\u043A\u0438 \u0022\u0438\u0441\u0442\u043E\u0440\u0438\u0447\u043D\u043E\u0441\u0442\u0438\u0022 \u0438 \u0022\u0440\u0435\u0430\u043B\u0438\u0441\u0442\u0438\u0447\u043D\u043E\u0441\u0442\u0438\u0022 \u0432 \u043D\u0430\u0448\u0435\u0439 \u0442\u0430\u043D\u043A\u043E\u0432\u043E\u0439 \u043F\u0441\u0438\u0445\u0443\u0448\u043A\u0435, \u0432\u043E\u0437\u043D\u0438\u043A\u0430\u043B \u0432\u043E\u043F\u0440\u043E\u0441 \u043F\u043E\u0447\u0435\u043C\u0443 \u043F\u043E\u0441\u043B\u0435 \u0443\u043D\u0438\u0447\u0442\u043E\u0436\u0435\u043D\u0438\u044F \u0442\u0430\u043D\u043A\u0438 \u0447\u0435\u0440\u043D\u0435\u044E\u0442 \u0442\u0430\u043A, \u0431\u0443\u0434\u0442\u043E \u0438\u0445 \u043F\u0435\u0440\u0435\u0434 \u0443\u043D\u0438\u0447\u0442\u043E\u0436\u0435\u043D\u0438\u0435\u043C \u043A\u0438\u043D\u0443\u043B\u0438 \u0432 \u0436\u0435\u0440\u043B\u043E \u0432\u0443\u043B\u043A\u0430\u043D.\r\n\r\n\u0414\u0430\u043D\u043D\u0430\u044F \u043C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u0438\u0441\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442 \u044D\u0442\u043E \u043D\u0435\u0434\u043E\u0440\u0430\u0437\u0443\u043C\u0435\u043D\u0438\u0435.",
+    "descriptionEn": "This modification removes the blackening from destroyed vehicles.\r\n\r\nAnyone who still values \u200B\u200Bthe last vestiges of \u0022historicity\u0022 and \u0022realism\u0022 in this tank-themed madhouse has likely wondered why, upon being destroyed, tanks turn as black as if they had been tossed into the mouth of a volcano.\r\n\r\nThis mod corrects that absurdity.",
     "category": "\u0413\u0440\u0430\u0444\u0438\u043A\u0430",
     "categoryEn": "Graphics",
-    "tags": [],
+    "tags": [
+      "\u0444\u0438\u043A\u0441",
+      "fix"
+    ],
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
@@ -778,13 +781,13 @@
     "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-1550ce8d-v1.0.0/mod-1550ce8d-1.0.0-96435c0c5b68e490.zip",
     "archiveSha256": "96435C0C5B68E4904423DE6F6C74DFE6529372BCD72A2F310D8F8022F2C8DFAC",
     "archiveSizeBytes": 54824,
-    "coverUrl": "",
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-1550ce8d/cover-ba10c91d7c23f13f4d921eda.jpg",
     "videoUrl": "",
     "screenshotUrls": [],
     "boostyUrl": "",
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T13:20:30.8661396\u002B00:00",
-    "updatedAt": "2026-10-24T13:20:30.865943\u002B00:00"
+    "updatedAt": "2026-10-25T19:25:34.053695\u002B00:00"
   }
 ]
