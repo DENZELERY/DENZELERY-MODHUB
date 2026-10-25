@@ -594,11 +594,17 @@
   {
     "id": "mod-6107001f",
     "title": "[PACK] \u041A\u0410\u041C\u0423\u0424\u041B\u042F\u0416\u0418 \u041C\u0423\u041B\u042C\u0422\u042F\u0428\u041A\u0418",
-    "description": "",
-    "descriptionEn": "",
+    "description": "\u041F\u0430\u043A \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0435\u0439 \u0438\u0437 \u0448\u0435\u0441\u0442\u0438 \u0448\u0442\u0443\u043A, \u0437\u0430\u043C\u0435\u043D\u044F\u044E\u0449\u0438\u0439 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438 \u0437\u0430 \u0441\u0435\u0440\u0435\u0431\u0440\u043E.\r\n\r\n\u0421\u0430\u043C\u044B\u0439 \u043C\u0443\u043B\u044C\u0442\u044F\u0448\u043D\u044B\u0439 \u0441\u0435\u0442 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0435\u0439. \u0421\u0435\u0442 \u0437\u0430\u043C\u0435\u043D\u044F\u0435\u0442 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043E\u0431\u044B\u0447\u043D\u044B\u0435 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438 \u0437\u0430 \u0441\u0435\u0440\u0435\u0431\u0440\u043E \u043D\u0430 \u0431\u043E\u043B\u0435\u0435 \u043A\u0440\u0430\u0441\u0438\u0432\u044B\u0435 \u0432 \u043C\u0443\u043B\u044C\u0442\u044F\u0448\u043D\u043E\u043C \u0441\u0442\u0438\u043B\u0435.",
+    "descriptionEn": "A pack of six camouflage skins that replaces the standard, silver-purchasable camos.\r\n\r\nThis is the most cartoon-style camouflage set. It replaces certain regular, silver-purchasable camos with more attractive, cartoon-themed versions.",
     "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
     "categoryEn": "Camouflages",
-    "tags": [],
+    "tags": [
+      "\u041C\u0443\u043B\u044C\u0442\u0438\u043A",
+      "\u043A\u043B\u0443\u0431\u043D\u0438\u043A\u0430",
+      "\u043F\u0438\u043D\u0433\u0432\u0438\u043D",
+      "\u0437\u0430\u0439\u0447\u0438\u043A",
+      "\u0443\u0442\u043E\u0447\u043A\u0430"
+    ],
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
@@ -617,7 +623,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T12:43:57.7910375\u002B00:00",
-    "updatedAt": "2026-10-25T18:05:36.191975\u002B00:00"
+    "updatedAt": "2026-10-25T19:36:58.3797919\u002B00:00"
   },
   {
     "id": "mod-e626752a",
