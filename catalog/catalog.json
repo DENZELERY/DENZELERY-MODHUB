@@ -947,5 +947,38 @@
     "changelog": "",
     "publishedAt": "2026-10-26T09:19:13.8387061\u002B00:00",
     "updatedAt": "2026-10-26T09:19:13.8384353\u002B00:00"
+  },
+  {
+    "id": "mod-eca1aa5d",
+    "title": "SUPER CONQUEROR | UNICORN",
+    "description": "\u041F\u043E\u043A\u0430 \u0442\u043E\u043B\u044C\u043A\u043E PBR",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [
+      "\u0415\u0434\u0438\u043D\u043E\u0440\u043E\u0433",
+      "\u0440\u043E\u0437\u043E\u0432\u044B\u0439",
+      "\u043F\u0443\u0437\u044B\u0440\u0438",
+      "\u0431\u043B\u0435\u0441\u043A"
+    ],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-26T09:42:24.7851232\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-eca1aa5d-v1.0/mod-eca1aa5d-1.0-9e55e19de26f0643.zip",
+    "archiveSha256": "9E55E19DE26F06438D8CCCD24D37504E30E2344C9AC829CF8ED746908EB0A7BC",
+    "archiveSizeBytes": 13452127,
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-eca1aa5d/cover-9423c60988c5f6e85ac1687a.png",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-26T09:42:24.7853258\u002B00:00",
+    "updatedAt": "2026-10-26T09:42:24.7851315\u002B00:00"
   }
 ]
