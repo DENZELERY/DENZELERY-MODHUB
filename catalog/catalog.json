@@ -980,5 +980,35 @@
     "changelog": "",
     "publishedAt": "2026-10-26T09:42:24.7853258\u002B00:00",
     "updatedAt": "2026-10-26T09:42:24.7851315\u002B00:00"
+  },
+  {
+    "id": "mod-fa1cf359",
+    "title": "B-C 25T | FUKSIA",
+    "description": "\u041F\u043E\u043A\u0430 \u0442\u043E\u043B\u044C\u043A\u043E \u0432 PBR",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [
+      "\u0440\u043E\u0437\u043E\u0432\u044B\u0439"
+    ],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-26T09:44:30.0102159\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-fa1cf359-v1.0/mod-fa1cf359-1.0-331ecda2063460ae.zip",
+    "archiveSha256": "331ECDA2063460AE90A1323A95A439DC61EF5D84BB7688E568344A5DA31EA64D",
+    "archiveSizeBytes": 2778929,
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-fa1cf359/cover-5a9665c8a3b95870b855256d.png",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-26T09:44:30.0104287\u002B00:00",
+    "updatedAt": "2026-10-26T09:44:30.0102227\u002B00:00"
   }
 ]
