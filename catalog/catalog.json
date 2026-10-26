@@ -851,5 +851,37 @@
     "changelog": "",
     "publishedAt": "2026-10-25T22:38:51.9541927\u002B00:00",
     "updatedAt": "2026-10-25T22:38:51.9539297\u002B00:00"
+  },
+  {
+    "id": "mod-8d8f3a2b",
+    "title": "SPIDER MAN CAMOUFLAGE",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
+    "categoryEn": "Camouflages",
+    "tags": [
+      "\u0427\u0435\u043B\u043E\u0432\u0435\u043A \u043F\u0430\u0443\u043A",
+      "\u043A\u0440\u0430\u0441\u043D\u044B\u0439",
+      "\u043F\u0430\u0443\u0442\u0438\u043D\u0430"
+    ],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-26T08:33:19.817204\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-8d8f3a2b-v1.0.0/mod-8d8f3a2b-1.0.0-95c3e978c2d51ba8.zip",
+    "archiveSha256": "95C3E978C2D51BA8F3A80268E971B46FC6B5C12C46B3C2EB8312D207DD4FF9E2",
+    "archiveSizeBytes": 2429120,
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-8d8f3a2b/cover-1c969c49c6c088af676a15ea.png",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-26T08:33:19.8177918\u002B00:00",
+    "updatedAt": "2026-10-26T08:33:19.8172134\u002B00:00"
   }
 ]
