@@ -915,5 +915,37 @@
     "changelog": "",
     "publishedAt": "2026-10-26T09:14:57.116615\u002B00:00",
     "updatedAt": "2026-10-26T09:14:57.1162732\u002B00:00"
+  },
+  {
+    "id": "mod-55b1af8e",
+    "title": "\u0418\u0421-7 \u0421\u0422\u0420\u0418\u0416 | \u0420\u041E\u0417\u041E\u0412\u042B\u0419 \u0421\u0422\u0420\u0418\u0416",
+    "description": "",
+    "descriptionEn": "",
+    "category": "\u0421\u043A\u0438\u043D\u044B",
+    "categoryEn": "Skins",
+    "tags": [
+      "\u0421\u0442\u0440\u0438\u0436",
+      "\u0440\u043E\u0437\u043E\u0432\u044B\u0439",
+      "\u0447\u0435\u0440\u043D\u044B\u0439"
+    ],
+    "priceType": "free",
+    "status": "Published",
+    "isLocalImport": false,
+    "publishedVersion": "1.0",
+    "compatibility": "allVersions",
+    "supportedGameVersions": [],
+    "compatibilityCheckedAt": "2026-10-26T09:19:13.8384262\u002B00:00",
+    "compatibilityNotes": "",
+    "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-55b1af8e-v1.0/mod-55b1af8e-1.0-0742bec1d118d7a6.zip",
+    "archiveSha256": "0742BEC1D118D7A677047DB94F895BF84454483DA8DAD03DE472FA8B6852A0BF",
+    "archiveSizeBytes": 1682540,
+    "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-55b1af8e/cover-44e61044cfaae852697bedf3.png",
+    "videoUrl": "",
+    "screenshotUrls": [],
+    "boostyUrl": "",
+    "paidReferenceUrl": "",
+    "changelog": "",
+    "publishedAt": "2026-10-26T09:19:13.8387061\u002B00:00",
+    "updatedAt": "2026-10-26T09:19:13.8384353\u002B00:00"
   }
 ]
