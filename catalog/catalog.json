@@ -838,6 +838,8 @@
     "category": "\u0421\u043A\u0438\u043D\u044B",
     "categoryEn": "Skins",
     "tags": [],
+    "creditBadgeTitle": "Perfect Mind",
+    "creditBadgeDescription": "\u0421\u0434\u0435\u043B\u0430\u043D \u043F\u043E \u0437\u0430\u043A\u0430\u0437\u0443 \u0434\u043B\u044F \u0441\u0442\u0440\u0438\u043C\u0435\u0440\u0430 Perfect Mind",
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
@@ -856,7 +858,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-25T22:38:51.9541927\u002B00:00",
-    "updatedAt": "2026-10-25T22:38:51.9539297\u002B00:00"
+    "updatedAt": "2026-10-29T18:20:00.1329931\u002B00:00"
   },
   {
     "id": "mod-8d8f3a2b",
