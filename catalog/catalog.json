@@ -639,6 +639,8 @@
     "category": "\u041A\u0430\u043C\u0443\u0444\u043B\u044F\u0436\u0438",
     "categoryEn": "Camouflages",
     "tags": [],
+    "creditBadgeTitle": "Annanestterova",
+    "creditBadgeDescription": "\u0421\u043E\u0437\u0434\u0430\u043D \u043F\u043E \u0437\u0430\u043A\u0430\u0437\u0443 \u0434\u043B\u044F \u0441\u0442\u0440\u0438\u043C\u0435\u0440\u0430 Annanestterova",
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
@@ -657,7 +659,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T12:56:17.1118982\u002B00:00",
-    "updatedAt": "2026-10-25T16:19:25.6920061\u002B00:00"
+    "updatedAt": "2026-10-30T05:34:07.6744961\u002B00:00"
   },
   {
     "id": "mod-ad59358d",
