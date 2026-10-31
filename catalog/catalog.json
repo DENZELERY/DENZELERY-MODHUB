@@ -402,11 +402,15 @@
   {
     "id": "mod-f982fe37",
     "title": "JAGDPANZER E 100  | KARL LEGERFELD",
-    "description": "",
-    "descriptionEn": "",
+    "description": "\u0421\u043A\u0438\u043D \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D \u0432 \u0442\u0451\u043C\u043D\u043E\u0439 \u043F\u0430\u043B\u0438\u0442\u0440\u0435 \u0441 \u043A\u043E\u043D\u0442\u0440\u0430\u0441\u0442\u043D\u044B\u043C\u0438 \u0441\u0432\u0435\u0442\u043B\u044B\u043C\u0438 \u043B\u0438\u043D\u0438\u044F\u043C\u0438, \u0434\u0435\u043A\u043E\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u043C\u0438 \u0443\u0437\u043E\u0440\u0430\u043C\u0438 \u0438 \u044D\u0444\u0444\u0435\u043A\u0442\u043E\u043C \u043F\u043E\u0442\u0451\u0440\u0442\u043E\u0439 \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u0438. \u041D\u043E\u0432\u044B\u0439 \u043E\u0431\u043B\u0438\u043A \u043F\u0440\u0438\u0434\u0430\u0451\u0442 \u043C\u0430\u0448\u0438\u043D\u0435 \u0431\u043E\u043B\u0435\u0435 \u0441\u0442\u0438\u043B\u044C\u043D\u044B\u0439 \u0438 \u043D\u0435\u043E\u0431\u044B\u0447\u043D\u044B\u0439 \u0432\u043D\u0435\u0448\u043D\u0438\u0439 \u0432\u0438\u0434, \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u044F \u0442\u044F\u0436\u0451\u043B\u044B\u0439 \u0438 \u0432\u044B\u0440\u0430\u0437\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440 Jagdpanzer E 100.",
+    "descriptionEn": "The skin features a dark color palette accented by contrasting light-colored lines, decorative patterns, and a weathered, worn-in look. This new appearance gives the vehicle a more stylish and distinctive aesthetic, while preserving the formidable and bold character of the Jagdpanzer E 100.",
+    "shortDescription": "\u0417\u0430\u043C\u0435\u043D\u044F\u0435\u0442 \u043B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u044B\u0439 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436 \u00AB\u041C\u043E\u0433\u0443\u0447\u0438\u0439\u00BB \u0434\u043B\u044F Jagdpanzer E 100 \u043D\u0430 \u043A\u0430\u043C\u0443\u0444\u043B\u044F\u0436 Karl Legerfeld.",
+    "shortDescriptionEn": "Replaces the \u0022Mighty\u0022 legendary camouflage for the Jagdpanzer E 100 with the Karl Legerfeld camouflage.",
     "category": "\u0421\u043A\u0438\u043D\u044B",
     "categoryEn": "Skins",
     "tags": [],
+    "creditBadgeTitle": "K0SH34KA",
+    "creditBadgeDescription": "\u0421\u0434\u0435\u043B\u0430\u043D \u043D\u0430 \u0437\u0430\u043A\u0430\u0437 \u0434\u043B\u044F \u0441\u0442\u0440\u0438\u043C\u0435\u0440\u0430 K0SH34KA",
     "priceType": "free",
     "status": "Published",
     "isLocalImport": false,
@@ -425,7 +429,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T12:18:20.4348969\u002B00:00",
-    "updatedAt": "2026-10-25T16:29:39.5951164\u002B00:00"
+    "updatedAt": "2026-10-31T07:29:23.2200234\u002B00:00"
   },
   {
     "id": "mod-75463cfe",
