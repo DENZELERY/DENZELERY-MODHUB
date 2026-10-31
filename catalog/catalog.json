@@ -796,12 +796,25 @@
     "archiveSizeBytes": 7060677,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/cover-a03a4bbc96b9d2210c4f2957.png",
     "videoUrl": "",
-    "screenshotUrls": [],
+    "screenshotUrls": [
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot1-98eec7f4bca41224296926aa.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot2-e6448b6218bf4aef097de56e.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot3-7620428ddc7d4723c09e969c.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot4-7641ca7c7a591d56a46962f7.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot5-3b4fa81f5c68a53efcdcbab5.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot6-8bb9ed5b38102617c8e3708a.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot7-a4fc549ccb19743e3796bc92.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot8-2ba46117ae12ceb4b5f49a90.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot9-759ee61103e463b595ead6ec.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot10-805f8923d705d76c5b132a7e.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot11-10d6a01f3e891d6483f69962.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-100074be/shot12-6086440ab3fdbf2ad95cda4e.jpg"
+    ],
     "boostyUrl": "",
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T12:41:03.4144297\u002B00:00",
-    "updatedAt": "2026-10-31T06:43:55.7895388\u002B00:00"
+    "updatedAt": "2026-10-31T15:29:53.1048419\u002B00:00"
   },
   {
     "id": "mod-6107001f",
