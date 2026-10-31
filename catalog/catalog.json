@@ -952,12 +952,19 @@
     "archiveSizeBytes": 4489,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/cover-c94202eb80a8909ecf7802f1.png",
     "videoUrl": "",
-    "screenshotUrls": [],
+    "screenshotUrls": [
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/shot1-830b867fc33aaac902a34b65.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/shot2-36881f98c2ca7c38e544de71.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/shot3-00ba91b497398a235c0f2750.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/shot4-42eacb8dd2a84c11c4bf6310.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/shot5-923ca16b89d64c495c51ec5d.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/shot6-93f3a31ebacf07889d1b3557.jpg"
+    ],
     "boostyUrl": "",
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T13:04:39.351017\u002B00:00",
-    "updatedAt": "2026-10-31T06:03:37.3927734\u002B00:00"
+    "updatedAt": "2026-10-31T15:24:47.0541808\u002B00:00"
   },
   {
     "id": "mod-c03bdbe3",
