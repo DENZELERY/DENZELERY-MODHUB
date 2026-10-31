@@ -520,7 +520,14 @@
     "shortDescriptionEn": "Replaces the standard FV215b (183) paint scheme with a bright pink skin featuring unicorns and rainbows.",
     "category": "\u0421\u043A\u0438\u043D\u044B",
     "categoryEn": "Skins",
-    "tags": [],
+    "tags": [
+      "\u0421\u043A\u0438\u043D\u044B",
+      "\u0415\u0434\u0438\u043D\u043E\u0440\u043E\u0433\u0438",
+      "\u0420\u043E\u0437\u043E\u0432\u044B\u0439",
+      "Skins",
+      "Unicorns",
+      "Pink"
+    ],
     "creditBadgeTitle": "Anna Nesterova",
     "creditBadgeDescription": "\u0421\u043E\u0437\u0434\u0430\u043D \u043F\u043E \u0437\u0430\u043A\u0430\u0437\u0443 \u0434\u043B\u044F \u0441\u0442\u0440\u0438\u043C\u0435\u0440\u0430 Annanestterova",
     "priceType": "free",
@@ -541,7 +548,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T12:32:36.5521369\u002B00:00",
-    "updatedAt": "2026-10-31T06:49:41.4728895\u002B00:00"
+    "updatedAt": "2026-10-31T06:50:54.7962988\u002B00:00"
   },
   {
     "id": "mod-4d18f7af",
