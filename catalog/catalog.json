@@ -331,12 +331,19 @@
     "archiveSha256": "B1B526B1C585CC70CEEDDF04B3208E380E49F35D8E0361DBDDBBCDB4287E1CA0",
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/cover-7fd598a058724aaf5c67f0bb.png",
     "videoUrl": "",
-    "screenshotUrls": [],
+    "screenshotUrls": [
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/shot1-4a877208a10ce557a7cf2bb6.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/shot2-3501d1f615b39c33a0b54567.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/shot3-8e0114c634469a5530adab60.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/shot4-5ab44e4e2fb234a6b0b965b4.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/shot5-2c1939d80aa1baae87cf0309.jpg",
+      "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/shot6-80918adf1732ac2a0bffc799.jpg"
+    ],
     "boostyUrl": "https://boosty.to/denzelery/posts/8a5adf3d-b00f-4abf-b9c0-545065d39b6b",
     "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-3ba18373-1-0-0.reference.json",
     "changelog": "",
     "publishedAt": "2026-10-24T09:56:44.8538087\u002B00:00",
-    "updatedAt": "2026-10-31T07:55:08.6769368\u002B00:00"
+    "updatedAt": "2026-11-01T07:17:26.7517818\u002B00:00"
   },
   {
     "id": "mod-bcbbf4bf",
