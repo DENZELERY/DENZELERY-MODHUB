@@ -336,13 +336,13 @@
     "priceType": "paid",
     "status": "Published",
     "isLocalImport": false,
-    "publishedVersion": "1.0.0",
+    "publishedVersion": "1.1",
     "compatibility": "allVersions",
     "supportedGameVersions": [],
     "compatibilityCheckedAt": "2026-10-24T09:56:44.8535639\u002B00:00",
     "compatibilityNotes": "",
     "archiveUrl": "",
-    "archiveSha256": "B1B526B1C585CC70CEEDDF04B3208E380E49F35D8E0361DBDDBBCDB4287E1CA0",
+    "archiveSha256": "491EAAEA367F55AB035F4146B8A7878CCAB66C5295C1B2F56081C7F4F2E43185",
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/cover-7fd598a058724aaf5c67f0bb.png",
     "videoUrl": "",
     "screenshotUrls": [
@@ -354,10 +354,10 @@
       "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3ba18373/shot6-80918adf1732ac2a0bffc799.jpg"
     ],
     "boostyUrl": "https://boosty.to/denzelery/posts/8a5adf3d-b00f-4abf-b9c0-545065d39b6b",
-    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-3ba18373-1-0-0.reference.json",
+    "paidReferenceUrl": "https://denzelery.github.io/DENZELERY-MODHUB/references/mod-3ba18373-1-1.reference.json",
     "changelog": "",
     "publishedAt": "2026-10-24T09:56:44.8538087\u002B00:00",
-    "updatedAt": "2026-11-01T07:17:26.7517818\u002B00:00"
+    "updatedAt": "2026-11-01T16:56:16.1966423\u002B00:00"
   },
   {
     "id": "mod-bcbbf4bf",
