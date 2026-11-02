@@ -1189,6 +1189,13 @@
     "compatibilityNotes": "",
     "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-3129be0a-v1.0.0/mod-3129be0a-1.0.0-8f3d80d1df18bb7a.zip",
     "archiveSha256": "8F3D80D1DF18BB7A43A8343267F40B2CA26109220CDFF6A43D7BB1DC1CD8E6E0",
+    "androidArchive": {
+      "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-android-mod-3129be0a-v1.0.0-r1/android-mod-3129be0a-1.0.0-r1-a5c75a23e5765763.zip",
+      "archiveSha256": "A5C75A23E576576361B30A48D69FC2A51A05B7C562AA210B4A6F680263F0542D",
+      "archiveSizeBytes": 9817,
+      "paidReferenceUrl": "",
+      "packageRevision": "1"
+    },
     "archiveSizeBytes": 4489,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-3129be0a/cover-c94202eb80a8909ecf7802f1.png",
     "videoUrl": "",
@@ -1204,7 +1211,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T13:04:39.351017\u002B00:00",
-    "updatedAt": "2026-10-31T15:24:47.0541808\u002B00:00"
+    "updatedAt": "2026-11-02T22:02:44.3869268\u002B00:00"
   },
   {
     "id": "mod-c03bdbe3",
