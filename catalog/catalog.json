@@ -388,6 +388,13 @@
     "compatibilityNotes": "",
     "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-bcbbf4bf-v1.0.0/mod-bcbbf4bf-1.0.0-ca9033993f25228c.zip",
     "archiveSha256": "CA9033993F25228C69C28DCF6484DB4310732AED8A2B3C80FC561F976BCC8176",
+    "androidArchive": {
+      "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-android-mod-bcbbf4bf-v1.0.0-r1/android-mod-bcbbf4bf-1.0.0-r1-1e6cd09914d9dd29.zip",
+      "archiveSha256": "1E6CD09914D9DD291111446D52E28E241241B89322C02D97F20F0BABEAF0E592",
+      "archiveSizeBytes": 12713466,
+      "paidReferenceUrl": "",
+      "packageRevision": "1"
+    },
     "archiveSizeBytes": 14686242,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-bcbbf4bf/cover-2f347bfdb448edf4423c3cba.png",
     "videoUrl": "",
@@ -409,7 +416,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T11:51:28.7170222\u002B00:00",
-    "updatedAt": "2026-10-31T15:59:28.4173119\u002B00:00"
+    "updatedAt": "2026-11-02T19:20:24.2579789\u002B00:00"
   },
   {
     "id": "mod-afa11f0a",
