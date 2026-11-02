@@ -1235,6 +1235,13 @@
     "compatibilityNotes": "",
     "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-mod-c03bdbe3-v1.0.0/mod-c03bdbe3-1.0.0-7ec385b5ee6955cb.zip",
     "archiveSha256": "7EC385B5EE6955CBF9D6B7428B9A534E439EC527293DDF21EF125702876FE580",
+    "androidArchive": {
+      "archiveUrl": "https://github.com/denzelery/DENZELERY-MODHUB/releases/download/free-android-mod-c03bdbe3-v1.0.0-r1/android-mod-c03bdbe3-1.0.0-r1-3db865e650802907.zip",
+      "archiveSha256": "3DB865E650802907012755E444BCD9489E52D8F7FD49EC6E10A47430E706A6C3",
+      "archiveSizeBytes": 11285,
+      "paidReferenceUrl": "",
+      "packageRevision": "1"
+    },
     "archiveSizeBytes": 4965,
     "coverUrl": "https://denzelery.github.io/DENZELERY-MODHUB/media/mod-c03bdbe3/cover-d92d6c3f21dc53ac727bd49f.png",
     "videoUrl": "",
@@ -1250,7 +1257,7 @@
     "paidReferenceUrl": "",
     "changelog": "",
     "publishedAt": "2026-10-24T13:06:21.3911666\u002B00:00",
-    "updatedAt": "2026-10-31T15:23:00.3827706\u002B00:00"
+    "updatedAt": "2026-11-02T22:01:19.5618223\u002B00:00"
   },
   {
     "id": "mod-9ea68e1b",
